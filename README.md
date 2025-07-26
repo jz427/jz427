@@ -6,7 +6,6 @@ I am an up and coming cybersecurity profesional looking to gain experience and i
 
 My background in computer science sparked a strong interest in cybersecurity, and I’m now excited to pivot into the field. I’m particularly focused on launching my career as an cybersecurity analyst.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
