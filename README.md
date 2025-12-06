@@ -9,7 +9,7 @@ My background in computer science sparked a strong interest in cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure infrastructure bulding + log analyzing    | <a href="(https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md)">Detection Lab</a>|
+| Azure infrastructure bulding + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR           | SOC Automation Lab|
 | Incident Response Planning and Execution        | SOC Automation Lab|
