@@ -5,9 +5,9 @@
 I am an up and coming cybersecurity profesional looking to gain experience and improve my skills
 
 My background in computer science sparked a strong interest in cybersecurity, and I’m now excited to pivot into the field. I’m particularly focused on launching my career as an cybersecurity analyst/engineer.
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project Name                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure infrastructure building + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
 
@@ -40,6 +40,4 @@ My background in computer science sparked a strong interest in cybersecurity, an
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-<!-- - Honeypot + Sentinel -->
 
