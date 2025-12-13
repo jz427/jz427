@@ -10,7 +10,7 @@ My background in computer science sparked a strong interest in cybersecurity, an
 | Project Name                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure infrastructure building + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
-| nmap vulnerability scanner    | <a href="[https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md](https://github.com/jz427/NetworkScanner/tree/main)">nmap scanner</a>|
+| nmap vulnerability scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
 
