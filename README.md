@@ -9,7 +9,7 @@ My background in computer science sparked a strong interest in cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure infrastructure bulding + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
+| Azure infrastructure building + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
 
 
 ## Tools
