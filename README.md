@@ -11,7 +11,7 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 
 | Project Name                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Infrastructure Building + Log Analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
+| Honeypot    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
 | nmap Vulnerability Scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
