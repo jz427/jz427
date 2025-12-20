@@ -1,5 +1,5 @@
 # Hello, I'm Jack Zaretsky
-<a href="https://www.linkedin.com/in/jack-zaretsky-911ba1181/"><img src="https://github.com/user-attachments/assets/0176e346-1e1e-482c-b3d3-b65f985f7385" />
+<a href="https://www.linkedin.com/in/jack-zaretsky-911ba1181/"><img src="https://github.com/user-attachments/assets/0176e346-1e1e-482c-b3d3-b65f985f7385" height="80" />
 /></a>
 
 
