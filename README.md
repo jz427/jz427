@@ -14,7 +14,7 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 | nmap Vulnerability Scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
- <!-- ## Tools
+  ## Tools
 
 ### Network
 <div>
