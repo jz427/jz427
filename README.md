@@ -26,7 +26,7 @@ My background in computer science sparked a strong interest in cybersecurity, an
 
 ### Endpoint
 <div>
-  <img src=" https://addigy.com/wp-content/uploads/2023/09/230908_Addigy_logo-ws_v3.svg" />
+  <img src= "https://addigy.com/wp-content/uploads/2023/09/230908_Addigy_logo-ws_v3.svg" />
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
 </div>
