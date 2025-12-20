@@ -2,15 +2,16 @@
 <a href="https://www.linkedin.com/in/jack-zaretsky-911ba1181/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an up and coming cybersecurity profesional looking to gain experience and improve my skills
+I am an up and coming cybersecurity profesional looking to gain experience and improve my skills<br/>
+I currently work at an MSP in New York City where i have a wide knoweldge of tools, softwares and procedures.
 
-My background in computer science sparked a strong interest in cybersecurity, and I’m now excited to pivot into the field. I’m particularly focused on launching my career as an cybersecurity analyst/engineer.
+My background in computer science sparked a strong interest in cybersecurity, and I’m now excited to pivot into the field.
 ## Projects
 
 | Project Name                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure infrastructure building + log analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
-| nmap vulnerability scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
+| Azure Infrastructure Building + Log Analyzing    | <a href="https://github.com/jz427/Honeypot-Sentinel-Lab/blob/main/README.md">Honeypot-Sentinel lab</a>|
+| nmap Vulnerability Ccanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
 
