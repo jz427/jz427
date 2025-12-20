@@ -20,12 +20,6 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 <div>
     <img src="https://github.com/user-attachments/assets/699a87a0-999c-4c4d-9ab8-4c17b46e8cb5" width="200" />
 
-   
-
-
-    
-</div>
-
  <img src="https://github.com/user-attachments/assets/23819679-9937-454b-87df-d58e3ed0f907" width="200" />
 
 ### Endpoint
