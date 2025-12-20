@@ -14,7 +14,7 @@ My background in computer science sparked a strong interest in cybersecurity, an
 | nmap Vulnerability Scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
-## Tools
+ <!-- ## Tools
 
 ### Network
 <div>
@@ -35,7 +35,7 @@ SentinelOne
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
 </div>
-
+-->
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-00A4CC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
