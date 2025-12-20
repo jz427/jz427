@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/jack-zaretsky-911ba1181/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an up and coming cybersecurity profesional looking to gain experience and improve my skills<br/>
-I currently work at an MSP in New York City where i have a wide knoweldge of tools, softwares and procedures.
+Currently a Service Analyst with a strong foundation in computer science and a growing focus on cybersecurity
 
-My background in computer science sparked a strong interest in cybersecurity, and I’m now excited to pivot into the field.
+I hold both a Bachelor’s and Master’s degree in Computer Science from Fairleigh Dickinson University, and I’ve earned industry certifications including CompTIA Security+ and CySA+. My work centers on delivering reliable technical support, strengthening security posture, and solving complex IT challenges with efficiency and clarity.
+This site highlights my projects, labs, and ongoing learning in areas like cybersecurity, system analysis, and secure IT operations
 ## Projects
 
 | Project Name                                       | Associated Project         |
