@@ -36,7 +36,7 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74b63290-fcfa-4888-b19a-fbaf1201c538" height="80" alt="Addigy" />
   <img src="https://github.com/user-attachments/assets/8f9f832b-2ba7-40e0-b308-af87ebc74a56" height="80" alt="Datto" />
-  <img src="https://github.com/user-attachments/assets/e34c73ba-ec04-48e3-ab21-fc8306e4b1f3" width"200" />
+  <img src="https://github.com/user-attachments/assets/e34c73ba-ec04-48e3-ab21-fc8306e4b1f3" height="80" alt="S1" />
 </p>
 
 
