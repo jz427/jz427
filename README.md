@@ -57,7 +57,7 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 ## Certifications
 <p align="left">
   <a href="https://www.comptia.org/certifications/cybersecurity-analyst" target="_blank">
-    <img src="https://github.com/user-attachments/assets/aff4e57d-1b37-4d34-a76e-57349df1f838" height="80" alt="CySA+" />
+    <img src="https://github.com/user-attachments/assets/aff4e57d-1b37-4d34-a76e-57349df1f838" height="100" alt="CySA+" />
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.comptia.org/certifications/security" target="_blank">
