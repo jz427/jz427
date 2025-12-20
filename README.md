@@ -4,7 +4,7 @@
 
 Currently a Service Analyst with a strong foundation in computer science and a growing focus on cybersecurity
 
-I hold both a Bachelor’s and Master’s degree in Computer Science from Fairleigh Dickinson University, and I’ve earned industry certifications including CompTIA Security+ and CySA+. My work centers on delivering reliable technical support, strengthening security posture, and solving complex IT challenges with efficiency and clarity.
+I hold both a Bachelor’s and Master’s degree in Computer Science from Fairleigh Dickinson University, and I’ve earned industry certifications including CompTIA Security+ and CySA+. My work centers on delivering reliable technical support, strengthening security posture, and solving complex IT challenges with efficiency and clarity. <br/><br/>
 This site highlights my projects, labs, and ongoing learning in areas like cybersecurity, system analysis, and secure IT operations
 ## Projects
 
