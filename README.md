@@ -14,18 +14,19 @@ My background in computer science sparked a strong interest in cybersecurity, an
 | nmap Vulnerability Scanner    | <a href= "https://github.com/jz427/NetworkScanner/tree/main">nmap scanner</a>|
 
 
-
 ## Tools
 
 ### Network
 <div>
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
+ 
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
 </div>
 
 ### Endpoint
 <div>
+  <img src=" https://addigy.com/wp-content/uploads/2023/09/230908_Addigy_logo-ws_v3.svg" />
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
   <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
 </div>
