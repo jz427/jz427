@@ -29,6 +29,17 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 
 
 
+<br/><br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74b63290-fcfa-4888-b19a-fbaf1201c538" width="150" alt="Addigy" />
+  <img src="https://github.com/user-attachments/assets/8f9f832b-2ba7-40e0-b308-af87ebc74a56" width="150" alt="Datto" />
+  <img src="https://github.com/user-attachments/assets/0d74e391-890c-426d-99aa-ca274596f34f" width="150" alt="SentinelOne" />
+</p>
+
+
+
+
 
   
 Addigy
