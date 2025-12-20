@@ -53,17 +53,17 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 
   
 
-### SIEM
-<div>
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
-</div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-CySA%2B-00A4CC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<p align="left">
+  <a href="https://www.comptia.org/certifications/cybersecurity-analyst" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f26f9517-1512-44a1-aa6d-669172f4899e" height="80" alt="CySA+" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.comptia.org/certifications/security" target="_blank">
+    <img src="https://github.com/user-attachments/assets/44769afc-2b93-433b-8976-3b840dd85e5c" height="80" alt="Sec+" />
+  </a>
+</p>
+
 
 
