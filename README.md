@@ -18,15 +18,18 @@ This site highlights my projects, labs, and ongoing learning in areas like cyber
 
 ### Network
 <div>
+  <p alight"left"
     <img src="https://github.com/user-attachments/assets/699a87a0-999c-4c4d-9ab8-4c17b46e8cb5" width="200" />
     <img src="https://github.com/user-attachments/assets/23819679-9937-454b-87df-d58e3ed0f907" width="180" />
+  </p>
 
 ### Endpoint
 <div>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/28388690-7533-4a7b-9f3b-d6421d4e1a0b" height="80" alt="S1" />
-  <img src="https://github.com/user-attachments/assets/74b63290-fcfa-4888-b19a-fbaf1201c538" height="80" alt="Addigy" />
   <img src="https://github.com/user-attachments/assets/8f9f832b-2ba7-40e0-b308-af87ebc74a56" height="80" alt="Datto" />
+  <img src="https://github.com/user-attachments/assets/74b63290-fcfa-4888-b19a-fbaf1201c538" height="80" alt="Addigy" />
+
 </p>
 
 
