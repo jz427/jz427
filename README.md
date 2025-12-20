@@ -18,17 +18,15 @@ My background in computer science sparked a strong interest in cybersecurity, an
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> 
- 
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
+    Sonicwall
+    Meraki
 </div>
 
 ### Endpoint
 <div>
-  <img src= "https://addigy.com/wp-content/uploads/2023/09/230908_Addigy_logo-ws_v3.svg" />
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
-  <!--  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> -->
+Addigy
+Datto
+SentinelOne
 </div>
 
 ### SIEM
