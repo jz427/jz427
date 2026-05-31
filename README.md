@@ -3,7 +3,7 @@
 </a>
 
 
-I am currently aProject Engineer with a strong foundation in computer science and a growing focus on cybersecurity.
+I am currently a Project Engineer with a strong foundation in computer science and a growing focus on cybersecurity.
 
 I hold both a Bachelor's and Master's degree in Computer Science from Fairleigh Dickinson University, and I've earned industry certifications including CompTIA Security+ and CySA+. As a Project Engineer at Valiant Technology, my work encompasses leading client onboarding, hardening cloud security environments, and executing complex migrations across Microsoft 365 and Google Workspace — all with a focus on security best practices and zero-downtime delivery. <br/><br/>
 This site highlights my projects, labs, and ongoing learning in areas like cybersecurity, system analysis, and secure IT operations.
